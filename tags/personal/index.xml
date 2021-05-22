@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on Aboedhiprasojo</title>
+    <link>https://sangito.netlify.app/tags/personal/</link>
+    <description>Recent content in personal on Aboedhiprasojo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 May 2021 02:02:56 +0700</lastBuildDate><atom:link href="https://sangito.netlify.app/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artikel Pertamaku</title>
+      <link>https://sangito.netlify.app/blog/artikel-pertamaku/</link>
+      <pubDate>Fri, 14 May 2021 02:02:56 +0700</pubDate>
+      
+      <guid>https://sangito.netlify.app/blog/artikel-pertamaku/</guid>
+      <description>Hello World!
+ini adalah tulisan pertama di blog ini. Baru saja saya membuat blog dengan Hugo. Bisa kalian cek saja langsung Hugo.
+Saya memilih Hugo, karena rasanya lebih mudah dari pada Jekyll dan Octopress. Meskipun saya sendiri sejujurnya belum mengerti bahasa pemrograman Go.
+Deploy saya lakukan ke Github Pages dengan dua repositori terpisah. Contohnya adalah. Pertama, repositori hugo-blog untuk menyimpan konten, kemudian repositori username.github.io untuk menyimpan halaman publik hasil render dari Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
